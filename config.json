@@ -76,7 +76,15 @@
     "capabilities": {
         "deepLink": {
             "value": "",
-            "enabled": false
+            "enabled": false,
+            "android": {
+                "webLinks": [
+                    {
+                        "host": "",
+                        "path": ""
+                    }
+                ]
+            }
         },
         "maps": {
             "value": "AIzaSyDoFxLTJQb7gE9zoS4eWifhOEyg90tOVQE",
@@ -107,7 +115,7 @@
             "enabled": true
         }
     },
-    "appVersion": "1.2.0",
-    "buildNumber": 5,
+    "appVersion": "0.0.1",
+    "buildNumber": 6,
     "runtimeUrl": "https://nativemobiledemo112-sandbox.mxapps.io/"
 }
