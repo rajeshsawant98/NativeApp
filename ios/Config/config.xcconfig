@@ -1,8 +1,8 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
-BUNDLE_DISPLAY_NAME = Native Mobile Demo
-BUNDLE_IDENTIFIER = com.nativemobiledemo.mobile
+BUNDLE_DISPLAY_NAME = NativeTemplate
+BUNDLE_IDENTIFIER = com.mendix.native.template
 
-RUNTIME_URL = https:\/\/nativemobiledemo112-sandbox.mxapps.io/
+RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = NativeMobileDem
+PRODUCT_NAME = nativeTemplate
