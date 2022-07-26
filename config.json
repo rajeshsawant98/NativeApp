@@ -115,7 +115,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.1",
-    "buildNumber": 6,
+    "appVersion": "0.0.7",
+    "buildNumber": 7,
     "runtimeUrl": "https://nativemobiledemo112-sandbox.mxapps.io/"
 }
